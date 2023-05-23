@@ -1,2 +1,5 @@
 # mapMyIndia-react
-A mapMyIndia-react with Custom Icons
+A mapMyIndia-react with Custom Icon
+<hr>
+
+
