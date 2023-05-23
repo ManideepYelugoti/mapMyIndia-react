@@ -1,8 +1,8 @@
 # mapMyIndia-react
 A mapMyIndia-react library that user can add custom icons
 <hr>
-##Getting Started
-<hr>
+### Getting Started<br/>
+
 ##Prerequisites
 Integrate interactive maps from MapmyIndia into your browser application by simply including MapmyIndia's interactive map API in your script source in the head section.
 <code>
